@@ -1,0 +1,5 @@
+# ninja log v5
+1	2295	1672308132915698934	CMakeFiles/CountIRPassPlugin.dir/CountIRPassPlugin.cpp.o	324d130be27485e2
+2296	2334	1672308132955700098	libCountIRPassPlugin.so	c731477d0650d3fd
+1	2903	1672309617027345430	CMakeFiles/CountIRPassPlugin.dir/CountIRPassPlugin.cpp.o	be91e6b1f09e9f0a
+2903	2948	1672309617075346396	libCountIRPassPlugin.so	af9a2cd7897aa90a

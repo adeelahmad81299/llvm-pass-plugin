@@ -1,0 +1,6 @@
+/home/user3/Desktop/Pass_Plugins_New/Template/build/CMakeFiles/rebuild_cache.dir
+/home/user3/Desktop/Pass_Plugins_New/Template/build/CMakeFiles/CountIRPassPlugin.dir
+/home/user3/Desktop/Pass_Plugins_New/Template/build/CMakeFiles/acc_gen.dir
+/home/user3/Desktop/Pass_Plugins_New/Template/build/CMakeFiles/edit_cache.dir
+/home/user3/Desktop/Pass_Plugins_New/Template/build/CMakeFiles/omp_gen.dir
+/home/user3/Desktop/Pass_Plugins_New/Template/build/CMakeFiles/intrinsics_gen.dir
